@@ -15,7 +15,7 @@ import Faq from "./components/Faq";
 const App = () => {
   return (
     <div>
-      <div className="max-w-[220] flex justify-center items-center flex-col mx-auto bg-[#202020] text-white ">
+      <div className="max-w-[220] flex justify-center items-center flex-col mx-auto bg-[#191414] text-white ">
         <BrowserRouter>
           <Herosection />
           <Navbar />
