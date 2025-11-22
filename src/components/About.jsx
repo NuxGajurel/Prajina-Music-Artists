@@ -36,10 +36,21 @@ const About = () => {
             beautifully.  
              </li>
           </p>
-         <h2 className="mt-2 text-2xl text-[#af6364]">2.Collaboration with Badshah</h2>
+         <h2 className="mt-2 text-2xl text-[#af6364]">2.Collaboration with Badshah :</h2>
          <p className="mt-3">
             <li>Prajina teamed up with renowned Indian rapper Badshah for his highly anticipated album <span className="text-[#af6360]"> “EK THA RAJA”</span>, marking a significant milestone in her career.</li>
          </p>
+            <h2 className="mt-2 text-2xl text-[#af6364]">3.YouTube Presence :</h2>
+            <p className="mt-3">
+            <li>Prajina’s YouTube channel features her music videos and interviews. Her songs evoke feelings and resonate with listeners.</li>
+            <li className="mt-3">
+    Notable tracks include <span className="text-[#af6360]">“Hami”</span>,  <span className="text-[#af6360]">“Antarikchya”</span>, and <span className="text-[#af6360]">“Don’t Have To”</span>.
+            </li>
+       </p>
+<h2 className="mt-2 text-2xl text-[#af6364]">4.Spotify and Viberate :</h2>
+ <p className="mt-3">
+    <li>You can find Prajina’s music on <span className="text-[#af6360]">Spotify </span> , where she has a monthly listener base of  <span className="text-[#af6360]">134.4K.</span></li>
+ </p>
         </div>
       </div>
     </div>
